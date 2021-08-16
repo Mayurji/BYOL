@@ -11,3 +11,4 @@ git clone https://github.com/Mayurji/BYOL
 pip install -r requirements.txt
 python training.py --batch-size 32 --lr 0.003 --save-model True
 ```
+## ![BYOL Blog](https://ai.plainenglish.io/byol-bootstrap-your-own-latent-dacee62a3dc8)
